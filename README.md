@@ -1,6 +1,7 @@
 # Customer-Segmentation-and-Churn-Analysis-in-Tableau
 A Tableau-based workflow for customer segmentation and churn analysis using rule-based clustering, visualizations, insights, and retention strategies to reduce customer attrition in telecom.
 
+🔗 [View Interactive Tableau Story](https://public.tableau.com/views/Customer-Segmentation-and-Churn-Analysis/FromInsightstoActionAChurnReductionStory)
 
 # Customer Segmentation and Churn Analysis in Tableau
 
